@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "394304576210",
+    "project_id": "mycarrepair-d396e",
+    "storage_bucket": "mycarrepair-d396e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394304576210:android:c2afabe10dad6de2b9eb0b",
+        "android_client_info": {
+          "package_name": "com.example.carrepair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394304576210-dji3cb2v8slhbt27maq59e4glbnqjdcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zGh1BARhvY8qks6Oicq4eFSBP44PRsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394304576210-dji3cb2v8slhbt27maq59e4glbnqjdcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394304576210:android:66f1035f0e969c74b9eb0b",
+        "android_client_info": {
+          "package_name": "com.example.myfinalcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394304576210-ldefnhe8pekefptoau4cibuhv16a5jnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfinalcar",
+            "certificate_hash": "895c315ec614161a4a35f5fc4e2d757e3fb54958"
+          }
+        },
+        {
+          "client_id": "394304576210-dji3cb2v8slhbt27maq59e4glbnqjdcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zGh1BARhvY8qks6Oicq4eFSBP44PRsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394304576210-dji3cb2v8slhbt27maq59e4glbnqjdcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

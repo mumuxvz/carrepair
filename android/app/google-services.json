@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298488458062",
+    "project_id": "cardone-4c674",
+    "storage_bucket": "cardone-4c674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298488458062:android:e1e562159b4a57ceba8c1f",
+        "android_client_info": {
+          "package_name": "com.example.cardone1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298488458062-v0kcifsojkuodfpvfm11lp6ebbop5v9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardone1",
+            "certificate_hash": "895c315ec614161a4a35f5fc4e2d757e3fb54958"
+          }
+        },
+        {
+          "client_id": "298488458062-ompcet0bqm5a39p6pnhnvgj28h673i1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzyWwhvvrG08-Mjcto9wS5VWPM20PX4SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298488458062-ompcet0bqm5a39p6pnhnvgj28h673i1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,35 @@
-# cardone1
+<div align = "center">
+ 
+# CarRepair
+  
+[![Flutter](https://img.shields.io/badge/Flutter-3.0.2-blue.svg)](https://flutter.dev/?gclsrc=ds&gclsrc=ds)
+[![Dart](https://img.shields.io/badge/Dart-2.17.3-green.svg)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/firebase-yellow.svg)](https://firebase.google.com/)
+  <p> Hi Guys, you ever find yourself stuck on the highway and there is no one to help you, to solve this problem we bring this app called car repair. You can Use This app to find Garages near You </p>   
+</div>
 
-A new Flutter project.
+## Fetures of the App
+* Easy to Find garage</br>
+* We Don't Have to Find Garage
+* It help when our car Stuck in Remote Area
+* You can call Near by Machenices also
 
-## Getting Started
+## Installestion
+Step 1:- First Install Flutter</br>
+Step 2:- Install Dart</br>
+Step 3:- Install Visual Studio Code or Android Studio</br> 
+Step 4:- Clone the File</br>
+```
+git clone 
+```
+Step 5:- Got to Directory Where You Save The File</br>
+Step 6:- First install Dependencies in pubsec.yaml using This command in terminal</br>
+```
+flutter pub get
+```
+Step 7:- Run The App</br>
+```
+flutter run
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
